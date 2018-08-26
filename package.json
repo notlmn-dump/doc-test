@@ -1,0 +1,13 @@
+{
+  "name": "doc-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "cd website && npx docusaurus-build",
+    "start": "cd website && npx docusaurus-start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MTT"
+}
